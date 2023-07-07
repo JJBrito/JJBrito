@@ -1,8 +1,8 @@
-### 🖖🏾 Hi! I'm José Junior. 
+### 🖖🏾 Olá, Sou o JJ ou se você preferir, José Junior!
 
-- 🦾 Hoje trabalho com Engenharia de Software ...
-- 🤓 Estudando PHP, DOCKER, React JS ...
-- 😃 Pronouns: ele/dele ...
+- 🧑🏾‍💻 Engenheiro de software backend especialista em desenvolvimento ágil
+- 🤓 Estudando front-end e computação em nuvem com objetivo de me tornar Full Stack
+
 
 <div align="center">
   <a href="https://github.com/JJBrito">
