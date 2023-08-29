@@ -1,7 +1,7 @@
 ## 🖖🏾 Olá, me chamo José Junior!
 
-* 🧑🏾‍💻 Sou Engenheiro de software backend especialista em desenvolvimento ágil
-* 🤓 Aqui você encontrará meus projetos de estudos em C#, Python e front-end
+* 🧑🏾‍💻 Sou Engenheiro de software full stack, especialista em desenvolvimento ágil
+* 🤓 Aqui você encontrará meus projetos de estudos em C#, Python, além de mais outras brincadeiras no front-end, com HTML, CSS e JavaScript: Let's have fun!
 
 
 <div>
