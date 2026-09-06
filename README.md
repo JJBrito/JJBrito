@@ -4,11 +4,19 @@
 - 🚀 Por aqui, compartilho projetos, experimentos e aprendizados. Entre back-end e front-end, a missão continua: construir, aprender e evoluir.
 - 🤓 Tecnologia é meu universo; curiosidade, meu combustível. Há sempre uma nova stack para explorar e um bug para enfrentar. *May the code be with you!*
 
-<div>
-  <a href="https://github.com/JJBrito">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JJBrito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJBrito&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/professional-dark.svg" />
+  <img width="980" alt="Resumo profissional: Full Stack .NET e Angular, integrações e sistemas críticos" src="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/professional-light.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/activity-dark.svg" />
+  <img width="460" alt="Resumo de contribuições no GitHub e repositórios públicos próprios" src="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/activity-light.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/languages-dark.svg" />
+  <img width="460" alt="Distribuição de linguagens por bytes de código público, excluindo forks" src="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/languages-light.svg" />
+</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
@@ -21,15 +29,10 @@
   <img align="center" alt="Junior-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
-  ##
-  
-</div>
-  <a href = "mailto:jzjuniorbrito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josepbjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  </div>
-  
-  </div>
-</div>
+## 📫 Vamos conversar?
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jzjuniorbrito@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josepbjunior/)
 
 ## 🐍 Minhas contribuições
 
