@@ -11,11 +11,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/activity-dark.svg" />
-  <img width="460" alt="Resumo de contribuições no GitHub e repositórios públicos próprios" src="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/activity-light.svg" />
+  <img width="49%" alt="Resumo de contribuições no GitHub e repositórios públicos próprios" src="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/activity-light.svg" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/languages-dark.svg" />
-  <img width="460" alt="Distribuição de linguagens por bytes de código público, excluindo forks" src="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/languages-light.svg" />
+  <img width="49%" alt="Distribuição de linguagens por bytes de código público, excluindo forks" src="https://raw.githubusercontent.com/JJBrito/JJBrito/profile-cards/languages-light.svg" />
 </picture>
 
 <div style="display: inline_block"><br>
