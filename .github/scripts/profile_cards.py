@@ -68,6 +68,20 @@ def render(data, directory):
             svg += body + text(24, 266, footer, 11, muted) + text(24, 284, "Atualizado: " + data["updated"], 10, muted) + "</g></svg>"
             ET.fromstring(svg)
             return svg
+        professional = f'<svg xmlns="http://www.w3.org/2000/svg" width="980" height="210" viewBox="0 0 980 210" role="img"><title>José Junior - Desenvolvedor Full Stack</title><desc>Resumo profissional baseado no currículo: .NET, Angular, sistemas corporativos e governamentais, integrações, SQL e DevOps.</desc><rect x="1" y="1" width="978" height="208" rx="16" fill="{bg}" stroke="{border}"/><g font-family="Segoe UI, Arial, sans-serif">'
+        professional += text(28, 35, "MISSÃO ATUAL · ENGENHARIA DE SOFTWARE", 12, accent, 600)
+        professional += text(28, 72, "Full Stack · .NET + Angular", 28, fg, 600)
+        professional += text(28, 101, "Do legado ao moderno, soluções para sistemas críticos.", 16, muted)
+        professional += text(28, 136, "C# / .NET · Angular · Node.js · React · Vue.js", 15)
+        professional += text(28, 166, "DDD · SOLID · Clean Code · APIs REST e SOAP", 14, muted)
+        professional += text(610, 72, "Sistemas corporativos e governamentais", 15, fg, 600)
+        professional += text(610, 105, "Integrações e regras de negócio complexas", 14, muted)
+        professional += text(610, 135, "SQL Server · PostgreSQL · MySQL", 14, muted)
+        professional += text(610, 165, "CI/CD · Docker · Scrum / Kanban", 14, muted)
+        professional += text(28, 192, "May the code be with you!", 12, accent)
+        professional += "</g></svg>"
+        ET.fromstring(professional)
+        (directory / f"professional-{theme}.svg").write_text(professional, encoding="utf-8")
         activity = data["activity"]
         rows = [
             ("Commits", activity["totalCommitContributions"]),
