@@ -30,3 +30,11 @@
   
   </div>
 </div>
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JJBrito/JJBrito/snake-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JJBrito/JJBrito/snake-output/github-snake.svg" />
+  <img alt="Animação de uma cobrinha percorrendo meu calendário de contribuições no GitHub" src="https://raw.githubusercontent.com/JJBrito/JJBrito/snake-output/github-snake.svg" />
+</picture>
