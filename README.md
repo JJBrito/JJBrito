@@ -1,8 +1,8 @@
-## 🖖🏾 Olá, me chamo José Junior!
+## 🖖🏾 Olá, sou José Junior!
 
-* 🧑🏾‍💻 Sou Engenheiro de software full stack, especialista em desenvolvimento ágil
-* 🤓 Aqui você encontrará meus projetos de estudos em C#, Python, além de mais outras brincadeiras no front-end, com HTML, CSS e JavaScript: Let's have fun!
-
+- 🧑🏾‍💻 Engenheiro de software full stack, combinando código, colaboração e desenvolvimento ágil para transformar problemas em soluções.
+- 🚀 Por aqui, compartilho projetos, experimentos e aprendizados. Entre back-end e front-end, a missão continua: construir, aprender e evoluir.
+- 🤓 Tecnologia é meu universo; curiosidade, meu combustível. Há sempre uma nova stack para explorar e um bug para enfrentar. *May the code be with you!*
 
 <div>
   <a href="https://github.com/JJBrito">
