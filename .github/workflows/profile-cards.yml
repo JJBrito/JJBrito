@@ -1,0 +1,37 @@
+name: Atualizar cartoes do perfil
+
+on:
+  schedule:
+    - cron: '41 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/profile_cards.py'
+      - '.github/workflows/profile-cards.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gerar SVGs com dados do GitHub
+        run: python3 .github/scripts/profile_cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+      - name: Publicar imagens no repositorio
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: profile-cards
+          build_dir: profile-cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
