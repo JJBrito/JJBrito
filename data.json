@@ -1,0 +1,24 @@
+{
+  "owner": "JJBrito",
+  "repositories": 19,
+  "languages": {
+    "HTML": 48047,
+    "CSS": 30195,
+    "JavaScript": 266558,
+    "C#": 38626,
+    "TypeScript": 11847,
+    "SCSS": 2814,
+    "ASP.NET": 111,
+    "Python": 7591,
+    "Vue": 9307
+  },
+  "activity": {
+    "startedAt": "2025-09-07T00:00:00Z",
+    "endedAt": "2026-09-12T23:59:59Z",
+    "totalCommitContributions": 8,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0
+  },
+  "updated": "2026-09-12 11:15 UTC"
+}
